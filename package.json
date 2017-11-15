@@ -1,0 +1,19 @@
+{
+  "name": "suitescript_mocker",
+  "version": "1.0.0",
+  "description": "A module for mocking SuiteScript 2.0 objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heathf/SuiteScriptMocker.git"
+  },
+  "author": "Heath Fournier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heathf/SuiteScriptMocker/issues"
+  },
+  "homepage": "https://github.com/heathf/SuiteScriptMocker#readme"
+}
